@@ -1,7 +1,9 @@
-[![KNZodiac24's GitHub stats](https://github-readme-stats.vercel.app/api?username=KNZodiac24&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KNZodiac24&layout=compact)
-
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KNZodiac24&theme=blue-green&show_icons=true" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNZodiac24&layout=compact" />
+</a>
 <!--
 **KNZodiac24/KNZodiac24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
