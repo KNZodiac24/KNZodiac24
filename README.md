@@ -28,7 +28,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KNZodiac24&theme=dark)](https://git.io/streak-stats)
 
-
 <!--
 **KNZodiac24/KNZodiac24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
