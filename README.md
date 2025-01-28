@@ -25,9 +25,9 @@
     <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNZodiac24&layout=compact&theme=dark" />
   </a>
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KNZodiac24&theme=dark)](https://git.io/streak-stats)
-
+<a>
+  <img src="https://streak-stats.demolab.com/?user=KNZodiac24&theme=dark"/>
+</a>
 <!--
 **KNZodiac24/KNZodiac24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
