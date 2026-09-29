@@ -20,6 +20,7 @@
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 # Stats 📊
+<div align="center">
 <a>
   <a href="https://github.com/KNZodiac24?tab=repositories">
     <img align="center" src="https://github-stats-extended.vercel.app/api?username=KNZodiac24&theme=blue-green&show_icons=true" />
@@ -31,11 +32,9 @@
 <a>
   <img src="https://streak-stats.demolab.com/?user=KNZodiac24&theme=dark"/>
 </a>
+</div>
 <!--
-**KNZodiac24/KNZodiac24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
