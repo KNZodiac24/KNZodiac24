@@ -23,7 +23,7 @@
 <div align="center">
 <a>
   <a href="https://github.com/KNZodiac24?tab=repositories">
-    <img align="center" src="https://github-stats-extended.vercel.app/api?username=KNZodiac24&theme=blue-green&show_icons=true" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=KNZodiac24&theme=blue-green&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&rank_icon=percentile&exclude_repo=steam-clone" />
   </a>
   <a href="https://github.com/KNZodiac24?tab=repositories">
     <img height=195 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KNZodiac24&layout=compact&theme=dark&hide=c,objective-c&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=navarrete-2025b-ksnp-sw-gr1,quito-explora,ProyectoGestionAcciones_ScriptSquad,app-limpieza,CazaPatos,steam-clone" />
